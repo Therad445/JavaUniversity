@@ -1,0 +1,40 @@
+2022-12-16 22:23:05 FINE  Program start -> 22:23:05 
+2022-12-16 22:23:05 FINE  Add Array time: 27700 index -> 0 
+2022-12-16 22:23:05 FINE  Add Array time: 700 index -> 1 
+2022-12-16 22:23:05 FINE  Add Array time: 500 index -> 2 
+2022-12-16 22:23:05 FINE  Add Array time: 500 index -> 3 
+2022-12-16 22:23:05 FINE  Add Array time: 600 index -> 4 
+2022-12-16 22:23:05 FINE  Add Array time: 600 index -> 5 
+2022-12-16 22:23:05 FINE  Add Array time: 600 index -> 6 
+2022-12-16 22:23:05 FINE  Add Array time: 700 index -> 7 
+2022-12-16 22:23:05 FINE  Add Array time: 500 index -> 8 
+2022-12-16 22:23:05 FINE  Add Array time: 300 index -> 9 
+2022-12-16 22:23:05 FINE  Add count -> 10 
+2022-12-16 22:23:05 FINE  Total time: 32700 
+2022-12-16 22:23:05 FINE  Median time: 3270 
+2022-12-16 22:23:05 FINE  Remove Array time: 47200 index -> 0 
+2022-12-16 22:23:05 FINE  Remove count -> 1 
+2022-12-16 22:23:05 FINE  Total time: 47200 
+2022-12-16 22:23:05 FINE  Median time: 47200 
+2022-12-16 22:23:05 FINE  Program finish -> 22:23:05 
+2022-12-16 22:23:05 FINE  Errors count -> 0 
+2022-12-18 17:09:42 FINE  Program start -> 17:09:42 
+2022-12-18 17:09:42 FINE  Add Array time: 5800 index -> 0 
+2022-12-18 17:09:42 FINE  Add Array time: 1000 index -> 1 
+2022-12-18 17:09:42 FINE  Add Array time: 1000 index -> 2 
+2022-12-18 17:09:42 FINE  Add Array time: 2500 index -> 3 
+2022-12-18 17:09:42 FINE  Add Array time: 800 index -> 4 
+2022-12-18 17:09:42 FINE  Add Array time: 500 index -> 5 
+2022-12-18 17:09:42 FINE  Add Array time: 700 index -> 6 
+2022-12-18 17:09:42 FINE  Add Array time: 500 index -> 7 
+2022-12-18 17:09:42 FINE  Add Array time: 800 index -> 8 
+2022-12-18 17:09:42 FINE  Add Array time: 900 index -> 9 
+2022-12-18 17:09:42 FINE  Add count -> 10 
+2022-12-18 17:09:42 FINE  Total time: 14500 
+2022-12-18 17:09:42 FINE  Median time: 1450 
+2022-12-18 17:09:42 FINE  Remove Array time: 79900 index -> 0 
+2022-12-18 17:09:42 FINE  Remove count -> 1 
+2022-12-18 17:09:42 FINE  Total time: 79900 
+2022-12-18 17:09:42 FINE  Median time: 79900 
+2022-12-18 17:09:42 FINE  Program finish -> 17:09:42 
+2022-12-18 17:09:42 FINE  Errors count -> 0 
