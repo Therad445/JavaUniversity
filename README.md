@@ -1,2 +1,4 @@
 # JavaUniversity
-1 semester of Java in University
+One semester of basics Java in University
+
+1-7 labs
